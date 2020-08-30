@@ -1,2 +1,2 @@
 # 2048
-CIS120 final project
+Programming Languages and Techniques (CIS120) final project
